@@ -1,0 +1,14 @@
+.navbar {
+    background: var(--background);
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.icon {
+    height: 40px;
+}
