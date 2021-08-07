@@ -1,11 +1,11 @@
-import React from 'react';
+import React, { Component } from 'react';
 import Container from './Container';
 import Typography from './Typography';
 import Button from './Button';
 import styles from './container.module.css';
 
 
-class Bridge extends React.Component {
+class Bridge extends Component {
 
     // const[
     // fromTezos,
