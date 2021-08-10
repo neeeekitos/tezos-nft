@@ -1,6 +1,6 @@
 # tezos-nft
 
-### Dependancies
+### Dependencies
 
 ###### For Ethereum
 
