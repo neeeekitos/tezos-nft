@@ -1,0 +1,8 @@
+.Container {
+    border-radius: 20px;
+    background-color: var(--container-background);
+    min-width: 40rem;
+    margin-top: 40px;
+    color: black;
+    box-shadow: var(--container-box-shadow);
+}
