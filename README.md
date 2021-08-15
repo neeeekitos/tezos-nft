@@ -1,4 +1,4 @@
-# tezos-nft
+# Ethereum-Tezos NFT bridge
 
 ### Dependencies
 
